@@ -57,7 +57,7 @@ align-items: center;
 }
 
 .box:hover{
-    background-color: rgb(50, 21, 29);
+    background-color: rgba(171, 130, 130, 0.498);
     
 }
 
@@ -70,7 +70,7 @@ padding: 0  35px;
 height: 40px;
 }
 
-.bt-0{
+/* .bt-0{
     border-top: 0;
 }
 
@@ -87,4 +87,4 @@ height: 40px;
 
 .bb-0 {
     border-bottom: 0;
-}
+} */
