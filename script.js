@@ -61,14 +61,24 @@
 // console.log(city.toUpperCase())
 // }
 
-let sum= [85, 97, 44, 37, 76, 60];
-let marks=0
+// let sum= [85, 97, 44, 37, 76, 60];
+// let marks=0
 
-for(let no of sum){
-  marks+=no
+// for(let no of sum){
+//   marks+=no
 
+
+// }
+// let avg= marks/sum.length
+
+// console.log(`avrg marks of student is  = ${avg}`)
+
+
+let  items = [250, 645 , 300 , 900 , 50]
+
+let idx = 0;
+
+for(let val of items ){
+console.log(`the value of ${idx} = ${items}`)
 
 }
-let avg= marks/sum.length
-
-console.log(`avrg marks of student is  = ${avg}`)
