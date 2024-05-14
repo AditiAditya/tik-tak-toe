@@ -35,16 +35,40 @@
 
 // my("aditi");
 
-class hello{
-          message() {
-            console.log("hwllo everyone")
-          }
-sorry(){
-console.log("sorry everyoenggugug")
-}
-}
+// class hello{
+//           message() {
+//             console.log("hwllo everyone")
+//           }
+// sorry(){
+// console.log("sorry everyoenggugug")
+// }
+// }
 
-let a = new hello();
-a.message()
+// let a = new hello();
+// a.message()
 
-a.sorry()
+// a.sorry()
+
+
+// let name = ["adit", "adj", "aes", "asxz"]
+// for(let i=0; i<name.length; i++){
+//   console.log(name[i])
+// }
+
+// let cities=['bhopal',"delhi","mumbai","kolkata"];
+
+// for(let city of cities){
+// console.log(city.toUpperCase())
+// }
+
+let sum= [85, 97, 44, 37, 76, 60];
+let marks=0
+
+for(let no of sum){
+  marks+=no
+
+
+}
+let avg= marks/sum.length
+
+console.log(`avrg marks of student is  = ${avg}`)
