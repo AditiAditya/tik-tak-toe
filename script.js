@@ -74,11 +74,34 @@
 // console.log(`avrg marks of student is  = ${avg}`)
 
 
-let  items = [250, 645 , 300 , 900 , 50]
+// let  items = [250, 645 , 300 , 900 , 50]
 
-let idx = 0;
+// let idx = 0;
 
-for(let val of items ){
-console.log(`the value of ${idx} = ${items}`)
+// for(let val of items ){
+// console.log(`the value of ${idx} = ${items}`)
+
+// }
+
+
+class hey{
+          message(){
+            console.log("Hello eveeryone ,,its aditi ");
+          }
+call(){
+    console.log("i am expert in coding >.....")
+}
+
+hello(){
+    console.log("hii \"its expert\" ")
+}
 
 }
+
+let a = new hey ();
+a.message()
+let s = new hey
+s.call()
+
+let d = new hey
+d.hello()
