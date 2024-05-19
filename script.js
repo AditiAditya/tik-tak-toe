@@ -84,24 +84,40 @@
 // }
 
 
-class hey{
-          message(){
-            console.log("Hello eveeryone ,,its aditi ");
-          }
-call(){
-    console.log("i am expert in coding >.....")
-}
+// class hey{
+//           message(){
+//             console.log("Hello eveeryone ,,its aditi ");
+//           }
+// call(){
+//     console.log("i am expert in coding >.....")
+// }
 
-hello(){
-    console.log("hii \"its expert\" ")
-}
+// hello(){
+//     console.log("hii \"its expert\" ")
+// }
 
-}
+// }
 
-let a = new hey ();
-a.message()
-let s = new hey
-s.call()
+// let a = new hey ();
+// a.message()
+// let s = new hey
+// s.call()
 
-let d = new hey
-d.hello()
+// let d = new hey
+// d.hello()
+////////////////////(//////////      19 05 2024     /////////////////////////////////
+
+// class worker{
+// constructor(){
+//   console.log(" ")
+// }
+// }
+// let z = {
+//   name: "aditi",
+//   language: "javascript"
+// }
+// console.log(z)  
+
+alert( "enter  ")
+let a = prompt ("say  something")
+document.write(a)
